@@ -3,3 +3,10 @@ tools
 *_old
 *.raw
 *.mhd
+data-unversioned/p1ch6/cifar-10-batches-py/data_batch_2
+data-unversioned/p1ch6/cifar-10-batches-py/data_batch_5
+data-unversioned/p1ch6/cifar-10-batches-py/data_batch_4
+data-unversioned/p1ch6/cifar-10-batches-py/data_batch_3
+data-unversioned/p1ch6/cifar-10-batches-py/data_batch_1
+data-unversioned/p1ch6/cifar-10-batches-py/batches.meta
+*.gz
